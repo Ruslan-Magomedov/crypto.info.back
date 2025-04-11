@@ -8,5 +8,5 @@ app = FastAPI()
 app.include_router(crypto)
 
 
-if __name__ == "__main__":
-    run("main:app", reload=True)
+# if __name__ == "__main__":
+#     run("main:app", reload=True)
